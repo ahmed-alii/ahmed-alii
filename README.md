@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Ahmed, a full-time full-stack freelance web developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
@@ -19,6 +14,52 @@
   
 
 <br/>  
+
+✅ I’m a full-stack web developer who is passionate about awesome designs. With over 3 years of experience and 100+ 5-star reviews on Fiverr, I have managed over 200 website projects since 2019. 
+<br/>  
+
+⭐️ Since establishing my business as a freelance web development expert, 3 years ago, I have helped several businesses and individuals build their online presence. I have got the knowledge and industry experience to build a high-converting website.   
+<br/>  
+
+
+I am an expert at:  
+
+- ✅ Frontend Web development 
+
+- ✅ HTML / CSS 
+
+- ✅ Javascript 
+
+- ✅ React.js  
+
+
+<br/>  
+
+👉 My strongest skill is my creativity. Being able to gather clients’ requirements and translate those into an engaging, effective and unique website is what has helped me obtain hundreds of reviews on Freelance platforms.  
+
+<br/>  
+
+My services include:  
+<br/>  
+
+- ▸ HTML CSS Bug Fixing 
+
+- ▸ Responsive Website Design 
+
+- ▸ Landing Pages Design 
+
+- ▸ React Website Development 
+
+- ▸ Firebase Integration 
+
+- ▸ Node.js Backend Development 
+
+- ▸ MongoDB 
+
+- ▸ WordPress Website Development 
+
+- ▸ Social Media Integration 
+
 
 
 ## My Skill Set  
