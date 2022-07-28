@@ -1,4 +1,4 @@
-### <div align="center">I'm Ahmed, a full-time full-stack freelance web developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="">I'm Ahmed, a web development expert 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I love to create new stuff.  
@@ -24,13 +24,13 @@
 
 I am an expert at:  
 
-- ✅ Frontend Web development 
+ ✅ Frontend Web development 
 
-- ✅ HTML / CSS 
+ ✅ HTML / CSS 
 
-- ✅ Javascript 
+ ✅ Javascript 
 
-- ✅ React.js  
+ ✅ React.js  
 
 
 <br/>  
@@ -42,23 +42,23 @@ I am an expert at:
 My services include:  
 <br/>  
 
-- ▸ HTML CSS Bug Fixing 
+▸ HTML CSS Bug Fixing 
 
-- ▸ Responsive Website Design 
+ ▸ Responsive Website Design 
 
-- ▸ Landing Pages Design 
+ ▸ Landing Pages Design 
 
-- ▸ React Website Development 
+ ▸ React Website Development 
 
-- ▸ Firebase Integration 
+ ▸ Firebase Integration 
 
-- ▸ Node.js Backend Development 
+ ▸ Node.js Backend Development 
 
-- ▸ MongoDB 
+ ▸ MongoDB 
+ 
+ ▸ WordPress Website Development 
 
-- ▸ WordPress Website Development 
-
-- ▸ Social Media Integration 
+ ▸ Social Media Integration 
 
 
 
